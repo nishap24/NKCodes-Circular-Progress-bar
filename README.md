@@ -10,7 +10,7 @@ NK Codes💛 - Circular progress bar is a visually appealing and customizable HT
 
 ## Authors
 
-- [NK💛](https://www.github.com/codesofTG) 
+- [NK💛](https://www.github.com/nishap24) 
 
 
 ## Demo
