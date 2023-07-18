@@ -17,7 +17,7 @@ NK Codes💛 - Circular progress bar is a visually appealing and customizable HT
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Circular-Progress-bar/
+    https://nishap24.github.io/NKCodes-Circular-Progress-bar/
 ## Getting Started
 
 To use the NK Codes💛 - Circular progress bar, follow these steps:
