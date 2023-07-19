@@ -71,6 +71,10 @@ Note: The code provided in this repository offers flexibility in color customiza
 
 - Scalable and customizable through CSS.
 
+## Deployment Status 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9e77e5b-9bd9-4cab-b950-0fc837acc7c4/deploy-status)](https://app.netlify.com/sites/kanasu-circular-progress-bar/deploys)
+
 
 ## Contributing
 
